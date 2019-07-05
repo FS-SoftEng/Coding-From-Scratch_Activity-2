@@ -1,0 +1,29 @@
+#paragraph1
+{
+    font-weight: bold
+}
+
+#paragraph2
+{
+    font-size: 1.5em
+}
+
+.blue
+{
+    color: blue
+}
+
+.red
+{
+    color: red 
+}
+
+.magenta
+{
+    color: magenta 
+}
+
+.green
+{
+    color: green 
+}
